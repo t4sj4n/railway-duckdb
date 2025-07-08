@@ -23,5 +23,5 @@ RUN chmod +x /start.sh
 
 CMD ["/start.sh"]
 
-#EXPOSE 7681
-EXPOSE 4214
+EXPOSE 7681
+#EXPOSE 4214
